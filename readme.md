@@ -27,8 +27,6 @@ This is a work in progress, several testing has been made but it should work as 
 
 <img src="https://github.com/arananet/thelistener/blob/master/img/amiftdi_top.png?raw=true" width="500">
 
-<img src="https://github.com/arananet/thelistener/blob/master/img/amiftdi_bottom.png?raw=true" width="500">
-
 # Bill of materials
 
 | Part          | Value                          | Package                        |
