@@ -1,12 +1,10 @@
 # THE LISTENER
 
-This board allow to capture the serial output from the Amiga to a usb/COM port. You can use it along with Diagrom board to diagnose problem on an Amiga motherboard.
+This board allow to capture the serial output from the Amiga to a usb/COM port. You can use it along with Diagrom rom (http://www.diagrom.com/) to diagnose problem on an Amiga motherboard.
 
-Just connect it on the Amiga, open a terminal on Windows or MAC with a program like Putty, choose the COMport number and you will able
-to "LISTEN" what the Diagrom has to say.
+Just connect the board to the Amiga and the usb to your computer, open a terminal on Windows or Linux, etc with a program like Putty, choose the COMport number and you will able to "LISTEN" what the Diagrom has to say.
 
-The board uses an FTDI 232RL chip. This chip does not require any drivers on windows. It will be detected a COMport. Ex COM3. Then on the
-Putty configuration, set: COMport number, 9600 BPS and you are done.
+The board uses an FTDI 232RL chip. This chip does not require any drivers on windows. It will be detected a COMport. Ex COM3. Then on the Putty configuration, set: COMport number, 9600 BPS, hit connect, then turn on your amiga and you are done.
 
 # Feedback
 
