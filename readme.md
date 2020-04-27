@@ -1,6 +1,6 @@
 # THE LISTENER
 
-This board allow to capture the serial output from the Amiga to a usb/COM port. You can use it along with Diagrom rom (http://www.diagrom.com/) to diagnose problem on an Amiga motherboard.
+This board allow to capture the serial output from the Amiga to a usb/COM port. You can use it along with Diagrom rom (http://www.diagrom.com/) to diagnose problems on any Amiga.
 
 Just connect the board to the Amiga and the usb to your computer, open a terminal on Windows or Linux, etc with a program like Putty, choose the COMport number and you will able to "LISTEN" what the Diagrom has to say.
 
