@@ -19,7 +19,7 @@ If you find any error on this description, please drop me an email to info@arana
 
 # Note
 
-This is a work in progress, several testing has been made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board. ç
+This is a work in progress, several testing has been made but it should work as is. I take no responsibiltiy for any damage to any equipment that results from the use of this board.
 
 #### I make this available for the Amiga Community! AMIGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!.
 
