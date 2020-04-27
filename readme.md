@@ -41,6 +41,11 @@ This is a work in progress, several testing has been made but it should work as 
 | R1        		| 300OHM RESISTOR                | 0805                           |
 | RX LED        | SMD LED                        | 0805                           |
 | TX LED     		| SMD LED                        | 0805                           |
+| USB CONNECTOR | MICRO_USB_4_LEGS               | MICRO_USB_4_LEGS               |
+
+## USB CONNECTOR
+
+https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-MICRO-4P-DIP_C456008.html
 
 # License
 
