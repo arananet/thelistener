@@ -42,6 +42,7 @@ This is a work in progress, several testing has been made but it should work as 
 | RX LED        | SMD LED                        | 0805                           |
 | TX LED     		| SMD LED                        | 0805                           |
 | USB CONNECTOR | MICRO_USB_4_LEGS               | MICRO_USB_4_LEGS               |
+| DB25          | DB25 FEMALE                    | DB25 FEMALE                    |
 
 ## USB CONNECTOR
 
